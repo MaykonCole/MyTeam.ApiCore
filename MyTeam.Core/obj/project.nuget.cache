@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "7kYheVeLkYf6iAsIzJ3eRNgYRVPo2LET2mdaQOnajLiDo/vcQASf2iyO3ZLk5pFWK3snt90uahMQJSeVgG991g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DevDesiger\\source\\repos\\MyTeam.WebApiCore\\MyTeam.Core\\MyTeam.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DevDesiger\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\DevDesiger\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\DevDesiger\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\DevDesiger\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

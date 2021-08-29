@@ -1,0 +1,15 @@
+C:\Users\DevDesiger\source\repos\MyTeam.WebApiCore\MyTeam.Infrastructure\bin\Debug\net5.0\MyTeam.Infrastructure.deps.json
+C:\Users\DevDesiger\source\repos\MyTeam.WebApiCore\MyTeam.Infrastructure\bin\Debug\net5.0\MyTeam.Infrastructure.dll
+C:\Users\DevDesiger\source\repos\MyTeam.WebApiCore\MyTeam.Infrastructure\bin\Debug\net5.0\ref\MyTeam.Infrastructure.dll
+C:\Users\DevDesiger\source\repos\MyTeam.WebApiCore\MyTeam.Infrastructure\bin\Debug\net5.0\MyTeam.Infrastructure.pdb
+C:\Users\DevDesiger\source\repos\MyTeam.WebApiCore\MyTeam.Infrastructure\bin\Debug\net5.0\MyTeam.Core.dll
+C:\Users\DevDesiger\source\repos\MyTeam.WebApiCore\MyTeam.Infrastructure\bin\Debug\net5.0\MyTeam.Core.pdb
+C:\Users\DevDesiger\source\repos\MyTeam.WebApiCore\MyTeam.Infrastructure\obj\Debug\net5.0\MyTeam.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\DevDesiger\source\repos\MyTeam.WebApiCore\MyTeam.Infrastructure\obj\Debug\net5.0\MyTeam.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DevDesiger\source\repos\MyTeam.WebApiCore\MyTeam.Infrastructure\obj\Debug\net5.0\MyTeam.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\DevDesiger\source\repos\MyTeam.WebApiCore\MyTeam.Infrastructure\obj\Debug\net5.0\MyTeam.Infrastructure.AssemblyInfo.cs
+C:\Users\DevDesiger\source\repos\MyTeam.WebApiCore\MyTeam.Infrastructure\obj\Debug\net5.0\MyTeam.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\DevDesiger\source\repos\MyTeam.WebApiCore\MyTeam.Infrastructure\obj\Debug\net5.0\MyTeam.Infrastructure.csproj.CopyComplete
+C:\Users\DevDesiger\source\repos\MyTeam.WebApiCore\MyTeam.Infrastructure\obj\Debug\net5.0\MyTeam.Infrastructure.dll
+C:\Users\DevDesiger\source\repos\MyTeam.WebApiCore\MyTeam.Infrastructure\obj\Debug\net5.0\ref\MyTeam.Infrastructure.dll
+C:\Users\DevDesiger\source\repos\MyTeam.WebApiCore\MyTeam.Infrastructure\obj\Debug\net5.0\MyTeam.Infrastructure.pdb
